@@ -52,7 +52,7 @@ This is a space to talk to the instructor. You don't need to be prepared to atte
 - Unless you have something of a private nature and you prefer only to speak to one of us, using **Ed Discussion** will ensure one of us gets to your message in time.
 - Please **DO NOT send Canvas messages** since it does not always reliably notify or deliver them to us.
 
-**ASSIGNMENTS & ASSESSMENT**  
+**ASSIGNMENTS & ASSESSMENTS**  
 **Attendance (15%)**  
 - **Lecture participation (5%):** You are expected to attend  all of the lectures and discussion sections. To gain this 5%, the student will have to attend at least 80% of the lectures and complete the syllabus acknowledgment (0.5%), the initial survey (0.5%), and the mid-quarter survey (0.5%).
 - **DS Worksheets (10%):** Every week an activity worksheet will be assigned during discussion sections. These worksheets will have to be completed in groups and submitted at the end of the discussion section. **Attendance is mandatory to get points.** 2 lowest grades dropped.
@@ -61,8 +61,8 @@ This is a space to talk to the instructor. You don't need to be prepared to atte
 - **Concept Maps (10%):** One individual assessment per week, on Fridays. 3 lowest grades dropped.
   
 **Projects (30%)**
-- **Midterm submission (15%):** Students will choose the data set that their group will be working on, the questions of interest, and then work on an exploratory data analysis of their data. The submission will be in groups of 3 students maximum, and will be due during week 5. A template will be provided with the questions that need to be answered at this stage.
-- **Final submission (15%):** Groups will prepare answers to questions designed to think critically about the data collection/generation process. Furthermore, they will use inferential statistics to answer a question using a (one-sided) hypothesis test, and interpret the results. Two templates will be provided: one with the calculations needed on Google Sheets and the other one with the questions that need to be answered in the final document. The submission will be in the same group as the midterm submission, and will be due during week 10.
+- **Midterm Project (15%):** Students will choose the data set that their group will be working on, the questions of interest, and then work on an exploratory data analysis of their data. The submission will be in groups of 3 students maximum, and will be due during week 5. A template will be provided with the questions that need to be answered at this stage.
+- **Final Project (15%):** Groups will prepare answers to questions designed to think critically about the data collection/generation process. Furthermore, they will use inferential statistics to answer a question using a (one-sided) hypothesis test, and interpret the results. Two templates will be provided: one with the calculations needed on Google Sheets and the other one with the questions that need to be answered in the final document. The submission will be in the same group as the midterm submission, and will be due during week 10.
   
 **Exams (55%)**
 - **Midterm (20%):** A one-hour exam to evaluate the topics from the first three weeks will take place during week 4. Questions will include topics and exercises discussed during lectures, discussion sections, and the readings assigned. 
@@ -73,13 +73,12 @@ This is a space to talk to the instructor. You don't need to be prepared to atte
 
 **Makeup Exams:** If you cannot make it because of sickness or personal emergencies, we will offer ONE makeup exam (in person) a week after the midterm for the midterm. For the final, the makeup exam will be during the second week of the fall quarter of 2024. In the meantime, your grade will be reported as incomplete. 
 
+**GRADING POLICY**  
 | Letter | Scale  | Letter | Scale  | Letter | Scale        |
 | ------ | ------ | ------ | ------ | ------ | ------------ |
 |   A+   | 96%+   |    B   | 83-85% |    C   | 70-75%       |
 |   A    | 93-95% |    B-  | 80-82% |    D   | 60-69%       |
 |   A-   | 90-92% |    C+  | 76-79% |    F   | 59% and below|
-
-**GRADING POLICY**
 
 **STUDENT HOURS FOR THE COURSE**  
 This is a 10 week quarter course. On average, it is expected that you put in 3 hours of work each week for each credit hour enrolled. For this five-unit course, you are expected to spend 15 hours per week: 3.25 hours of lectures, 5 hours of reading, 1 hour in the discussion section, and 5.75 hours working on your projects. 
