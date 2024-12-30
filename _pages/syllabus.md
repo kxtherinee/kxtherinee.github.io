@@ -9,7 +9,7 @@ To follow the class, you will have access to:
 - Grades on Canvas: You will be able to see the grades for each of your assignments here, but please **don't trust the estimated final grade reported by Canvas**. Calculate your estimated grade at any point of the quarter using the grading section on the syllabus.
 
 **INSTRUCTOR INFORMATION**  
-Marcela Alfaro Córdoba [(marcordob@ucsc.edu)](marcordob@ucsc.edu)  
+Marcela Alfaro Córdoba (marcordob@ucsc.edu)  
 *Assistant Teaching Professor of Statistics*
 - Professor Alfaro Córdoba, Dr. Alfaro Córdoba, or simply Marcela
 
