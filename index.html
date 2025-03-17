@@ -1,13 +1,214 @@
 <!DOCTYPE html>
 <html lang="en">
+  
+  
+  
+  
+  
+ <style> 
+  
+/* styles.css */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    background-color: #f9f9f9;
+}
+
+.sidebar {
+    width: 250px;
+    background-color: #2c3e50;
+    color: #ecf0f1;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.sidebar .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px 0;
+    background-color: #34495e;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar ul li {
+    padding: 15px 20px;
+    border-bottom: 1px solid #34495e;
+}
+
+.sidebar ul li a {
+    text-decoration: none;
+    color: #ecf0f1;
+    display: block;
+}
+
+.sidebar ul li a:hover {
+    background-color: #16a085;
+    color: white;
+}
+
+.sidebar .footer {
+    text-align: center;
+    padding: 15px;
+    font-size: 0.9rem;
+    background-color: #34495e;
+}
+
+.content {
+    flex: 1;
+    padding: 20px;
+    overflow-y: auto;
+}
+
+h1 {
+    color: #34495e;
+    border-bottom: 2px solid #16a085;
+    padding-bottom: 5px;
+}
+
+.week {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #16a085;
+    margin-bottom: 15px;
+}
+
+.event {
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #ecf0f1;
+    border-left: 5px solid #16a085;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.event .tag {
+    display: inline-block;
+    font-size: 0.9rem;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 3px;
+    color: white;
+    margin-right: 10px;
+}
+
+.event .tag.lecture {
+    background-color: #3498db;
+}
+
+.event .tag.participation {
+    background-color: #95a5a6;
+}
+
+.event .tag.lab {
+    background-color: #9b59b6;
+}
+
+.event .tag.homework {
+    background-color: #e74c3c;
+}
+
+.event .tag.discussion {
+    background-color: #27ae60;
+}
+
+.note-link {
+    float: right;
+}
+
+.note-link a {
+    color: #16a085;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.note-link a:hover {
+    text-decoration: underline;
+}
+
+  
+  </style>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Page</title>
+    <title>Stats5 Class Schedule</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Welcome to My GitHub Page</h1>
-    <button onclick="alert('Button Clicked!')">Click Me</button>
-    <button type="button" name="button" class="btn">Button element</button>
+    <div class="sidebar">
+        <div class="logo">STATS5</div>
+        <ul>
+            <li><a href="#">Home / Schedule</a></li>
+            <li><a href="#">Syllabus</a></li>
+            <li><a href="#">Graduate Project</a></li>
+            <li><a href="#">Calendar</a></li>
+            <li><a href="#">Resources</a></li>
+            <li><a href="#">Staff</a></li>
+            <li><a href="#">Acknowledgments</a></li>
+            <li><a href="#">Course Notes</a></li>
+            <li><a href="#">Debugging Guide</a></li>
+            <li><a href="#">Course FAQ</a></li>
+        </ul>
+        <div class="footer">This site uses <strong>Just the Docs</strong>, a documentation theme for Jekyll.</div>
+    </div>
+
+    <div class="content">
+        <h1>Schedule</h1>
+
+        <div class="week">
+            <h2>Week 1</h2>
+            <div class="event">
+                <span class="tag lecture">LECTURE 1</span>
+                <a href="#">Introduction</a>
+                <span class="note-link"><a href="#">Note 1</a></span>
+            </div>
+            <div class="event">
+                <span class="tag participation">LECTURE PARTICIPATION 1</span>
+                <a href="#">Lecture Participation 1</a>
+            </div>
+            <div class="event">
+                <span class="tag lab">LAB 1</span>
+                <a href="#">Prerequisite Coding</a> (due Sep 3)
+            </div>
+            <div class="event">
+                <span class="tag homework">HOMEWORK 1A</span>
+                <a href="#">Plotting and the Permutation Test</a> (due Sep 5)
+            </div>
+            <div class="event">
+                <span class="tag homework">HOMEWORK 1B</span>
+                <a href="#">Prerequisite Math</a> (due Sep 5)
+            </div>
+        </div>
+
+        <div class="week">
+            <h2>Week 2</h2>
+            <div class="event">
+                <span class="tag lecture">LECTURE 2</span>
+                <a href="#">Pandas I</a>
+                <span class="note-link"><a href="#">Note 2</a></span>
+            </div>
+            <div class="event">
+                <span class="tag participation">LECTURE PARTICIPATION 2</span>
+                <a href="#">Lecture Participation 2</a>
+            </div>
+            <div class="event">
+                <span class="tag discussion">DISCUSSION 1</span>
+                <a href="#">Prerequisites</a>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
